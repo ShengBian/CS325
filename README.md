@@ -1,2 +1,2 @@
-# CS325
-My coursework for CS325 at Oregon State University
+# CS325 – Analysis of Algorithms
+Recurrence relations, combinatorics, recursive algorithms, proofs of correctness.
